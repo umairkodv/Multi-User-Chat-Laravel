@@ -8,8 +8,6 @@ Clone the Project
 git clone https://github.com/umairkodv/Multi-User-Chat-Laravel.git
 ```
 
-
-```
 install dependencies
 ```
 composer install
