@@ -10,7 +10,7 @@ git clone https://github.com/umairkodv/Multi-User-Chat-Laravel.git
 
 
 ```
-cd laravel-multi-user-chat-app
+
 ```
 install dependencies
 ```
