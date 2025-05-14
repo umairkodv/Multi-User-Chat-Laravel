@@ -1,4 +1,4 @@
-# Zee Chat 
+# Multi User Chat 
 A Multi User Chat Application With Laravel and Livewire. where you can chat with multiple frinds at the same time. i build this with php Laravel and Livewire.
 
 ## Quick Start
