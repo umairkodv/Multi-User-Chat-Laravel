@@ -8,7 +8,7 @@ Clone the Project
 git clone https://github.com/umairkodv/Multi-User-Chat-Laravel.git
 ```
 
-change directory
+
 ```
 cd laravel-multi-user-chat-app
 ```
